@@ -1,7 +1,8 @@
 
-Here's a sample README for your rich text collaborator project:
 
-LiveDocs - Rich Text Collaborator
+
+<h1>LiveDocs - Rich Text Collaborator</h1>
+
 LiveDocs is a powerful collaborative platform that allows users to share text, code, or any other content in real-time. Whether you're working on a document, writing code, or brainstorming ideas, LiveDocs makes collaboration easy with live document editing and instant notifications. It also includes tagging features and a secure authentication system powered by NextAuth.
 
 Features
